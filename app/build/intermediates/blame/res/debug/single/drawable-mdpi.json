@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/docs/Android/MoverioAR/app/build/intermediates/res/merged/debug/drawable-mdpi/background.png",
+        "source": "/docs/Android/MoverioAR/app/src/main/res/drawable-mdpi/background.png"
+    },
+    {
+        "merged": "/docs/Android/MoverioAR/app/build/intermediates/res/merged/debug/drawable-mdpi/shutter_pressed.png",
+        "source": "/docs/Android/MoverioAR/app/src/main/res/drawable-mdpi/shutter_pressed.png"
+    },
+    {
+        "merged": "/docs/Android/MoverioAR/app/build/intermediates/res/merged/debug/drawable-mdpi/shutter.png",
+        "source": "/docs/Android/MoverioAR/app/src/main/res/drawable-mdpi/shutter.png"
+    },
+    {
+        "merged": "/docs/Android/MoverioAR/app/build/intermediates/res/merged/debug/drawable-mdpi/background_pressed.png",
+        "source": "/docs/Android/MoverioAR/app/src/main/res/drawable-mdpi/background_pressed.png"
+    },
+    {
+        "merged": "/docs/Android/MoverioAR/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_launcher.png",
+        "source": "/docs/Android/MoverioAR/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    }
+]

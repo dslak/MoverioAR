@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/docs/Android/MoverioAR/app/libs/google-api-translate-java-0.98-mod2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2eda6905f8b719be023772e5c738d93c6b77210b">
+        <dex dex="/docs/Android/MoverioAR/app/build/intermediates/pre-dexed/debug/google-api-translate-java-0.98-mod2_2277bbde6362f2991bd9b490bfbfc6b1a0a935aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/docs/Android/TMP/OCR/android-ocr-master/OCRTest/libs/jtar-1.0.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b6ff62805312c9384c2f4cc21a6367b74fd2bbd7">
+        <dex dex="/docs/Android/TMP/OCR/android-ocr-master/OCRTest/build/intermediates/pre-dexed/debug/jtar-1.0.4_788988a59ce246634abf43911971ff7836d3099a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/docs/Android/TMP/OCR/android-ocr-master/OCRTest/libs/json_simple-1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e303a03d04e6788dddfa3655272580ae0fc13bb">
+        <dex dex="/docs/Android/TMP/OCR/android-ocr-master/OCRTest/build/intermediates/pre-dexed/debug/json_simple-1.1_57eaeffa7bc9d462f28032c436d401273fac1944.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/docs/Android/MoverioAR/app/libs/json_simple-1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e303a03d04e6788dddfa3655272580ae0fc13bb">
+        <dex dex="/docs/Android/MoverioAR/app/build/intermediates/pre-dexed/debug/json_simple-1.1_45ba78630421e20ab75dde4aa6df85705631df84.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/docs/Android/MoverioAR/app/libs/microsoft-translator-java-api-0.6-mod.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="176df3274c901602fe2b6c345326a6990be557b9">
+        <dex dex="/docs/Android/MoverioAR/app/build/intermediates/pre-dexed/debug/microsoft-translator-java-api-0.6-mod_9b7bfca20d079fa6795c6eb1badc854fdbf3d3d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/docs/Android/TMP/OCR/android-ocr-master/OCRTest/libs/google-api-translate-java-0.98-mod2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2eda6905f8b719be023772e5c738d93c6b77210b">
+        <dex dex="/docs/Android/TMP/OCR/android-ocr-master/OCRTest/build/intermediates/pre-dexed/debug/google-api-translate-java-0.98-mod2_b895db447167eb5ef908bad9bfd5911c5ef0d43f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/docs/Android/MoverioAR/app/libs/jtar-1.0.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b6ff62805312c9384c2f4cc21a6367b74fd2bbd7">
+        <dex dex="/docs/Android/MoverioAR/app/build/intermediates/pre-dexed/debug/jtar-1.0.4_574662d688692492372f64828650e1afff94d2e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/docs/Android/TMP/OCR/android-ocr-master/OCRTest/libs/microsoft-translator-java-api-0.6-mod.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="176df3274c901602fe2b6c345326a6990be557b9">
+        <dex dex="/docs/Android/TMP/OCR/android-ocr-master/OCRTest/build/intermediates/pre-dexed/debug/microsoft-translator-java-api-0.6-mod_5fba71cf4cc10f69f6a19b42f5e113eaf0379d14.jar" />
+    </item>
+
+</items>

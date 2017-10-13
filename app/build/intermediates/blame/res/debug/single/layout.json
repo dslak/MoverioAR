@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/docs/Android/MoverioAR/app/build/intermediates/res/merged/debug/layout/help.xml",
+        "source": "/docs/Android/MoverioAR/app/src/main/res/layout/help.xml"
+    },
+    {
+        "merged": "/docs/Android/MoverioAR/app/build/intermediates/res/merged/debug/layout/capture.xml",
+        "source": "/docs/Android/MoverioAR/app/src/main/res/layout/capture.xml"
+    }
+]
